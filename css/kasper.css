@@ -18,6 +18,8 @@ html{
 }
 body{
     font-family: 'Open Sans', sans-serif; 
+    width: 2000px;
+    margin-inline: auto;
 }
 ul{
     list-style: none;
@@ -27,6 +29,7 @@ ul{
     padding-right: 15px;
     margin-left: auto;
     margin-right: auto;
+    width:80%;
 }
   /* Small */
 @media (min-width: 768px) {
